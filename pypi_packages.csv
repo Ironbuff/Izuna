@@ -1,0 +1,1086 @@
+"Package Name","Installation Instruction","Released Date","Short Description",Author,Maintainer
+"tl3 0.0.11","pip install tl3
+          
+            
+            Copy PIP instructions","Released: 
+  Aug 20, 2024","Two-line element (TLE) management with a focus on downloading and operating on every TLE ever published by Space-Track",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/8fe2a562cec5b3bddf3ca603ae2f849dee573c73/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f38376161326331646434626131386238396233393733393133616366643962663f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for liamers from gravatar.com"" title=""Avatar for liamers from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            liamers
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/8fe2a562cec5b3bddf3ca603ae2f849dee573c73/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f38376161326331646434626131386238396233393733393133616366643962663f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for liamers from gravatar.com"" title=""Avatar for liamers from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            liamers
+          </span>
+        "
+"tldextract 5.1.2","pip install tldextract
+          
+            
+            Copy PIP instructions","Released: 
+  Mar 19, 2024","Accurately separates a URL&#39;s subdomain, domain, and public suffix, using the Public Suffix List (PSL). By default, this includes the public ICANN TLDs and their exceptions. You can optionally support the Public Suffix List&#39;s private domains as well.",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/12ae743b0cb194250a29498e5066b77a6941eb00/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f31306439353366323638366436623162303264363966646532646536336266663f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for John.Kurkowski from gravatar.com"" title=""Avatar for John.Kurkowski from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            John.Kurkowski
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/12ae743b0cb194250a29498e5066b77a6941eb00/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f31306439353366323638366436623162303264363966646532646536336266663f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for John.Kurkowski from gravatar.com"" title=""Avatar for John.Kurkowski from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            John.Kurkowski
+          </span>
+        "
+"tldrstory 1.4.0","pip install tldrstory
+          
+            
+            Copy PIP instructions","Released: 
+  Aug 18, 2021","AI-powered understanding of headlines and story text",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/a74cf480e83b7f1953f1d4161fbe6093ccb1daac/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f34353634386665643932656137386662383432326136353535313265333834333f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for davidmezzetti from gravatar.com"" title=""Avatar for davidmezzetti from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            davidmezzetti
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/a74cf480e83b7f1953f1d4161fbe6093ccb1daac/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f34353634386665643932656137386662383432326136353535313265333834333f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for davidmezzetti from gravatar.com"" title=""Avatar for davidmezzetti from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            davidmezzetti
+          </span>
+        "
+"tld-task 1.0.0","pip install tld-task
+          
+            
+            Copy PIP instructions","Released: 
+  Jul 7, 2018","tld is a tool for people who want to do things, but who want a bit of flexibility.",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/231ea86be9421daacfe734992898d00b9c924289/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f65313865313735346564333761346465316461623765393762313232316539663f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for davidlowryduda from gravatar.com"" title=""Avatar for davidlowryduda from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            davidlowryduda
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/231ea86be9421daacfe734992898d00b9c924289/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f65313865313735346564333761346465316461623765393762313232316539663f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for davidlowryduda from gravatar.com"" title=""Avatar for davidlowryduda from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            davidlowryduda
+          </span>
+        "
+"tle2czml 0.3","pip install tle2czml
+          
+            
+            Copy PIP instructions","Released: 
+  Oct 31, 2020","Convert TLE&#39;s to CZML file",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/c42cc893e324bb00b317d4a49ba232165dad8623/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f62313630616563643863373135326535336332656365323031323732303133313f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for kujosHeist from gravatar.com"" title=""Avatar for kujosHeist from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            kujosHeist
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/c42cc893e324bb00b317d4a49ba232165dad8623/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f62313630616563643863373135326535336332656365323031323732303133313f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for kujosHeist from gravatar.com"" title=""Avatar for kujosHeist from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            kujosHeist
+          </span>
+        "
+,,,,,
+"tlpytools 0.1.5","pip install tlpytools
+          
+            
+            Copy PIP instructions","Released: 
+  Jul 19, 2024","A set of tools for building models at the TransLink Forecasting Team",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/b6b1a56d08d6ce965c4628be97b77b5c1823a25b/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f61643030643434306332373630613739343964623765346636383134346334663f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for amirmj from gravatar.com"" title=""Avatar for amirmj from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            amirmj
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/5c4397f0c6f19f07a64d033e1861a929e9b2755d/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f39613934326438663433633530646337353964363866626161663534383035383f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for bwen from gravatar.com"" title=""Avatar for bwen from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            bwen
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/70abae1fe0d8c39ae06ca92493162ec87fe88f51/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f36616630323938653837366366633361613864633161613537336361366138303f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for tlforecasting from gravatar.com"" title=""Avatar for tlforecasting from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            tlforecasting
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/b6b1a56d08d6ce965c4628be97b77b5c1823a25b/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f61643030643434306332373630613739343964623765346636383134346334663f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for amirmj from gravatar.com"" title=""Avatar for amirmj from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            amirmj
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/5c4397f0c6f19f07a64d033e1861a929e9b2755d/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f39613934326438663433633530646337353964363866626161663534383035383f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for bwen from gravatar.com"" title=""Avatar for bwen from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            bwen
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/70abae1fe0d8c39ae06ca92493162ec87fe88f51/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f36616630323938653837366366633361613864633161613537336361366138303f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for tlforecasting from gravatar.com"" title=""Avatar for tlforecasting from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            tlforecasting
+          </span>
+        "
+"tlscli 1.1.0","pip install tlscli
+          
+            
+            Copy PIP instructions","Released: 
+  Apr 2, 2013","Text User Interface client for CORBA Telecom Log Service.",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/f54c99527bb0b957c42143da15265fd897ea9a66/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f36303535363434393764643831363137663763363562373564336665366538663f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for tgg from gravatar.com"" title=""Avatar for tgg from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            tgg
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/f54c99527bb0b957c42143da15265fd897ea9a66/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f36303535363434393764643831363137663763363562373564336665366538663f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for tgg from gravatar.com"" title=""Avatar for tgg from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            tgg
+          </span>
+        "
+"tlsmate-client-simul 1.0.1","pip install tlsmate-client-simul
+          
+            
+            Copy PIP instructions","Released: 
+  Mar 27, 2022","Simulates multiple different client bahviors",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/80c200c8ba30b85941c930e2fb55bde00a23a172/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f36613062613935326138383361393661313234303836616666333361316362663f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for guballa from gravatar.com"" title=""Avatar for guballa from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            guballa
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/80c200c8ba30b85941c930e2fb55bde00a23a172/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f36613062613935326138383361393661313234303836616666333361316362663f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for guballa from gravatar.com"" title=""Avatar for guballa from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            guballa
+          </span>
+        "
+"tlstrust 2.9.0","pip install tlstrust
+          
+            
+            Copy PIP instructions","Released: 
+  Oct 17, 2023","Utilities that assist with trust relationship checking of X.509 Certificates for various end-user devices with disparate root trust stores.",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/d623bd5875bcc47059177490ce128ab4dce07041/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f38633333666264303333616664633862383064343939313039636536666238653f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for chrislangton from gravatar.com"" title=""Avatar for chrislangton from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            chrislangton
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/d623bd5875bcc47059177490ce128ab4dce07041/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f38633333666264303333616664633862383064343939313039636536666238653f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for chrislangton from gravatar.com"" title=""Avatar for chrislangton from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            chrislangton
+          </span>
+        "
+"tm1cm 0.9.5","pip install tm1cm
+          
+            
+            Copy PIP instructions","Released: 
+  Feb 6, 2024","A model migration library for TM1 Planning Analytics",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/3bf49835ef36b2a37e16127efb9f4fc551f37f17/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f34343230336134333263343838643730353761326265396239346338366263643f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for ajmyers from gravatar.com"" title=""Avatar for ajmyers from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            ajmyers
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/3bf49835ef36b2a37e16127efb9f4fc551f37f17/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f34343230336134333263343838643730353761326265396239346338366263643f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for ajmyers from gravatar.com"" title=""Avatar for ajmyers from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            ajmyers
+          </span>
+        "
+"tm4j-reporter-api 0.1.2","pip install tm4j-reporter-api
+          
+            
+            Copy PIP instructions","Released: 
+  Aug 31, 2020","python package providing functionality for Jira Test Management (tm4j) Cloud through REST API calls",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/be4d2cccacc1dcbdd042662126772e3c04145f97/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f64633036306336666432646631396662396137336138313865343031336566633f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for klikatech from gravatar.com"" title=""Avatar for klikatech from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            klikatech
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/be4d2cccacc1dcbdd042662126772e3c04145f97/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f64633036306336666432646631396662396137336138313865343031336566633f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for klikatech from gravatar.com"" title=""Avatar for klikatech from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            klikatech
+          </span>
+        "
+"tm-cdk-constructs 0.0.37","pip install tm-cdk-constructs
+          
+            
+            Copy PIP instructions","Released: 
+  Aug 25, 2024","A CDK construct library",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/90c0f92dcaea419d2a4713e1ed31d8d482582c5e/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f35373161366134386363363930656532643337663861323262336266366539383f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for Toumoro from gravatar.com"" title=""Avatar for Toumoro from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            Toumoro
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/90c0f92dcaea419d2a4713e1ed31d8d482582c5e/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f35373161366134386363363930656532643337663861323262336266366539383f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for Toumoro from gravatar.com"" title=""Avatar for Toumoro from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            Toumoro
+          </span>
+        "
+"tmdbapis 1.2.16","pip install tmdbapis
+          
+            
+            Copy PIP instructions","Released: 
+  Apr 25, 2024","A lightweight Python library for The V3 and V4 TMDb APIs.",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/dcbce3bb3762da50178be035e1cd3c4f5facaa73/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f38366635346138663431633965333232343737636666613639633137323265343f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for meisnate12 from gravatar.com"" title=""Avatar for meisnate12 from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            meisnate12
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/dcbce3bb3762da50178be035e1cd3c4f5facaa73/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f38366635346138663431633965333232343737636666613639633137323265343f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for meisnate12 from gravatar.com"" title=""Avatar for meisnate12 from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            meisnate12
+          </span>
+        "
+"tmdb-python 0.0.9","pip install tmdb-python
+          
+            
+            Copy PIP instructions","Released: 
+  Feb 21, 2022","Asynchronous Python library for The Movie Database (TMDB) API v3",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/a5f5c1a97f3f784d2c01ab03c28607acbbe66b79/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f33643766353638623366333038303061376431356633383436366462376664353f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for leandcesar from gravatar.com"" title=""Avatar for leandcesar from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            leandcesar
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/a5f5c1a97f3f784d2c01ab03c28607acbbe66b79/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f33643766353638623366333038303061376431356633383436366462376664353f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for leandcesar from gravatar.com"" title=""Avatar for leandcesar from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            leandcesar
+          </span>
+        "
+"tmdbv3api 1.9.0","pip install tmdbv3api
+          
+            
+            Copy PIP instructions","Released: 
+  Aug 14, 2023","A lightweight Python library for The Movie Database (TMDb) API.",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/79b76b41f6913e111ed839f4ba53e4307f0b418c/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f33356161336638323432623662636634343863653762333833383235316431393f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for anthonybloomer from gravatar.com"" title=""Avatar for anthonybloomer from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            anthonybloomer
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/79b76b41f6913e111ed839f4ba53e4307f0b418c/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f33356161336638323432623662636634343863653762333833383235316431393f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for anthonybloomer from gravatar.com"" title=""Avatar for anthonybloomer from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            anthonybloomer
+          </span>
+        "
+"tmep 3.0.0","pip install tmep
+          
+            
+            Copy PIP instructions","Released: 
+  Feb 10, 2024","Template engine for file paths. Expand variables like ``$title`` and apply functions like ``%upper{}``.",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/b9f37a786ff1386872d53afc485e72e04ea29657/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f64326639383431316633653566636361343961383761356263396466333930363f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for JosefFriedrich from gravatar.com"" title=""Avatar for JosefFriedrich from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            JosefFriedrich
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/b9f37a786ff1386872d53afc485e72e04ea29657/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f64326639383431316633653566636361343961383761356263396466333930363f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for JosefFriedrich from gravatar.com"" title=""Avatar for JosefFriedrich from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            JosefFriedrich
+          </span>
+        "
+"tml-ctp 1.0.0","pip install tml-ctp
+          
+            
+            Copy PIP instructions","Released: 
+  Feb 29, 2024","Python tool to batch anonymization of DICOM files with Dockerized CTP Dicom Anonymizer Tool",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/967deed8d68a5b7132a40b62d2b9977174f6cb77/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f37393365633537363830663863343466363230303035623432393465323863663f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for translationalml from gravatar.com"" title=""Avatar for translationalml from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            translationalml
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/967deed8d68a5b7132a40b62d2b9977174f6cb77/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f37393365633537363830663863343466363230303035623432393465323863663f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for translationalml from gravatar.com"" title=""Avatar for translationalml from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            translationalml
+          </span>
+        "
+,,,,,
+"tmsyscall 0.0.8","pip install tmsyscall
+          
+            
+            Copy PIP instructions","Released: 
+  May 28, 2018","Python library for some advanced Linux system calls",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/292dfd5d3c076c29e63b18055da3069557ac82f3/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f32393032303333316134383662623366396538383033316130636665613830303f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for joaompinto from gravatar.com"" title=""Avatar for joaompinto from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            joaompinto
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/292dfd5d3c076c29e63b18055da3069557ac82f3/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f32393032303333316134383662623366396538383033316130636665613830303f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for joaompinto from gravatar.com"" title=""Avatar for joaompinto from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            joaompinto
+          </span>
+        "
+,,,,,
+"tmux2html 0.1.11","pip install tmux2html
+          
+            
+            Copy PIP instructions","Released: 
+  Apr 15, 2016","tmux2html captures full tmux windows or individual panes
+then parses their contents into HTML.",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/cd2720301bc519fae5643d6b22e44ccdfda37ece/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f65343466663433643930663539633666653939373034656563613563303231633f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for tweekmonster from gravatar.com"" title=""Avatar for tweekmonster from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            tweekmonster
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/cd2720301bc519fae5643d6b22e44ccdfda37ece/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f65343466663433643930663539633666653939373034656563613563303231633f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for tweekmonster from gravatar.com"" title=""Avatar for tweekmonster from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            tweekmonster
+          </span>
+        "
+"tmux-language-server 0.0.10","pip install tmux-language-server
+          
+            
+            Copy PIP instructions","Released: 
+  Jun 14, 2024","tmux language server",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/07d6af8dfef4bd1d1145d78463f51dcdd48a46b0/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f34353430386431633238616461353133386239376635393061323139376431363f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for Freed-Wu from gravatar.com"" title=""Avatar for Freed-Wu from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            Freed-Wu
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/07d6af8dfef4bd1d1145d78463f51dcdd48a46b0/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f34353430386431633238616461353133386239376635393061323139376431363f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for Freed-Wu from gravatar.com"" title=""Avatar for Freed-Wu from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            Freed-Wu
+          </span>
+        "
+"tmuxomatic 2.18","pip install tmuxomatic
+          
+            
+            Copy PIP instructions","Released: 
+  Jul 3, 2015","Intelligent tmux session management ... #tmux",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/8d39f444f5fd12804e0dda86e6239d10c887210a/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f34383066396533373731383562306338396131653331356661636637343934373f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for oxidane from gravatar.com"" title=""Avatar for oxidane from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            oxidane
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/8d39f444f5fd12804e0dda86e6239d10c887210a/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f34383066396533373731383562306338396131653331356661636637343934373f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for oxidane from gravatar.com"" title=""Avatar for oxidane from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            oxidane
+          </span>
+        "
+,,,,,
+,,,,,
+"tnscm 0.0.4","pip install tnscm
+          
+            
+            Copy PIP instructions","Released: 
+  Sep 2, 2021","TNSCM (Tenable Nessus CLI Manager) by LimberDuck",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/b72ecf883b57d27012f3ae458388a2bae161105f/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f30393665393961663735666139343066316566636665616662346534613838303f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for damian-krawczyk from gravatar.com"" title=""Avatar for damian-krawczyk from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            damian-krawczyk
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/b72ecf883b57d27012f3ae458388a2bae161105f/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f30393665393961663735666139343066316566636665616662346534613838303f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for damian-krawczyk from gravatar.com"" title=""Avatar for damian-krawczyk from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            damian-krawczyk
+          </span>
+        "
+"toastedmarshmallow 2.15.2.post1","pip install toastedmarshmallow
+          
+            
+            Copy PIP instructions","Released: 
+  Jun 19, 2019","A JIT implementation for Marshmallow to speed up dumping and loading objects.",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/1bcec5a388dab64d9d14c90a448679449c456503/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f33666264653766626134376462313435616665643065666630303537626261333f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for jmphilli from gravatar.com"" title=""Avatar for jmphilli from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            jmphilli
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/7837fc18e9495ef86055ffdf4f8a2c5b7512d75e/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f39376263373439666665373734666162323964613632663637303666393630373f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for rowillia from gravatar.com"" title=""Avatar for rowillia from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            rowillia
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/1bcec5a388dab64d9d14c90a448679449c456503/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f33666264653766626134376462313435616665643065666630303537626261333f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for jmphilli from gravatar.com"" title=""Avatar for jmphilli from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            jmphilli
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/7837fc18e9495ef86055ffdf4f8a2c5b7512d75e/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f39376263373439666665373734666162323964613632663637303666393630373f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for rowillia from gravatar.com"" title=""Avatar for rowillia from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            rowillia
+          </span>
+        "
+"t-object 0.1.8","pip install t-object
+          
+            
+            Copy PIP instructions","Released: 
+  May 9, 2024",t_object,,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/024c5eb497b7783c1705aecb2418e70aba59a2e2/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f33643130333530653433633063383333656461376535623838393966653939393f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for thoughtful from gravatar.com"" title=""Avatar for thoughtful from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            thoughtful
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/024c5eb497b7783c1705aecb2418e70aba59a2e2/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f33643130333530653433633063383333656461376535623838393966653939393f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for thoughtful from gravatar.com"" title=""Avatar for thoughtful from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            thoughtful
+          </span>
+        "
+"tocka-django-maintenancemode 0.9.4.1","pip install tocka-django-maintenancemode
+          
+            
+            Copy PIP instructions","Released: 
+  Jul 10, 2015","Django-maintenancemode allows you to temporary shutdown your site for maintenance work",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/973c1366a0a70800eabe98442b0e4a060eb5807f/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f66616331616535373937613334666661336236613635333739326665316665623f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for frnhr from gravatar.com"" title=""Avatar for frnhr from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            frnhr
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/973c1366a0a70800eabe98442b0e4a060eb5807f/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f66616331616535373937613334666661336236613635333739326665316665623f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for frnhr from gravatar.com"" title=""Avatar for frnhr from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            frnhr
+          </span>
+        "
+"toclo 1.1.25","pip install toclo
+          
+            
+            Copy PIP instructions","Released: 
+  Jun 5, 2018","A todo list command line program in Python.",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/e54865359574d36d6258165d488f335addb1a50d/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f65393332326239626330663032336562333961353366326531353866393064393f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for verssae from gravatar.com"" title=""Avatar for verssae from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            verssae
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/e54865359574d36d6258165d488f335addb1a50d/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f65393332326239626330663032336562333961353366326531353866393064393f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for verssae from gravatar.com"" title=""Avatar for verssae from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            verssae
+          </span>
+        "
+"t-ocr 1.4.21","pip install t-ocr
+          
+            
+            Copy PIP instructions","Released: 
+  Aug 27, 2024","Thoughtful OCR Package",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/024c5eb497b7783c1705aecb2418e70aba59a2e2/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f33643130333530653433633063383333656461376535623838393966653939393f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for thoughtful from gravatar.com"" title=""Avatar for thoughtful from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            thoughtful
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/024c5eb497b7783c1705aecb2418e70aba59a2e2/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f33643130333530653433633063383333656461376535623838393966653939393f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for thoughtful from gravatar.com"" title=""Avatar for thoughtful from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            thoughtful
+          </span>
+        "
+"todd 0.0.7","pip install todd
+          
+            
+            Copy PIP instructions","Released: 
+  Jan 7, 2019","An interactive terminal based todo.txt file editor",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/6e58102d4d677262807de34f7ec60e406abf13ea/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f64363231346131623561306331353238623537326365396462393137663437653f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for laktak from gravatar.com"" title=""Avatar for laktak from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            laktak
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/6e58102d4d677262807de34f7ec60e406abf13ea/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f64363231346131623561306331353238623537326365396462393137663437653f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for laktak from gravatar.com"" title=""Avatar for laktak from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            laktak
+          </span>
+        "
+"todo-by 1.2.0","pip install todo-by
+          
+            
+            Copy PIP instructions","Released: 
+  Jun 27, 2023","Runtime lifetimes for comments.",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/ba7767b830655f15f35af2203f055ae6812fd4a9/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f61643639366334363532656561663939633732376465396164613638313864363f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for barnumbirr from gravatar.com"" title=""Avatar for barnumbirr from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            barnumbirr
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/ba7767b830655f15f35af2203f055ae6812fd4a9/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f61643639366334363532656561663939633732376465396164613638313864363f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for barnumbirr from gravatar.com"" title=""Avatar for barnumbirr from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            barnumbirr
+          </span>
+        "
+"todoclist 0.5.0","pip install todoclist
+          
+            
+            Copy PIP instructions","Released: 
+  May 15, 2024","No project description provided",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/41510ea310b8992e9f7825d8bf8248323864bd6b/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f39643933356432356538323233343962333833333763363930613730316536363f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for rasalini from gravatar.com"" title=""Avatar for rasalini from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            rasalini
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/41510ea310b8992e9f7825d8bf8248323864bd6b/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f39643933356432356538323233343962333833333763363930613730316536363f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for rasalini from gravatar.com"" title=""Avatar for rasalini from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            rasalini
+          </span>
+        "
+"todo-cli-tddschn 2.0.7","pip install todo-cli-tddschn
+          
+            
+            Copy PIP instructions","Released: 
+  Jun 6, 2022","CLI Todo app made with typer, sqlite and a REST API",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/3a8cdcfb11012e8265374b66aab0562adfe98703/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f38626563643566386535323735626566653231303438366362393761666137643f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for teddysc from gravatar.com"" title=""Avatar for teddysc from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            teddysc
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/3a8cdcfb11012e8265374b66aab0562adfe98703/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f38626563643566386535323735626566653231303438366362393761666137643f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for teddysc from gravatar.com"" title=""Avatar for teddysc from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            teddysc
+          </span>
+        "
+"todofinder 1.2.0","pip install todofinder
+          
+            
+            Copy PIP instructions","Released: 
+  Jan 26, 2020","Scan for TODO&#39;s",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/8f6f8f1778dd0864d0c36da4881668e9c4f928da/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f63646232373931646435383734326661616131376333356562353664613133303f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for jonathrg from gravatar.com"" title=""Avatar for jonathrg from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            jonathrg
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/8f6f8f1778dd0864d0c36da4881668e9c4f928da/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f63646232373931646435383734326661616131376333356562353664613133303f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for jonathrg from gravatar.com"" title=""Avatar for jonathrg from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            jonathrg
+          </span>
+        "
+"todoist-cli 0.0.1","pip install todoist-cli
+          
+            
+            Copy PIP instructions","Released: 
+  Jan 6, 2016","A CLI for batch creating Todoist tasks.",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/7b46817a065c522841f16fa72168a7eb70bc4623/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f66346237613765346237386232376238636533386133643665313135333835343f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for ChristopherSu from gravatar.com"" title=""Avatar for ChristopherSu from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            ChristopherSu
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/7b46817a065c522841f16fa72168a7eb70bc4623/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f66346237613765346237386232376238636533386133643665313135333835343f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for ChristopherSu from gravatar.com"" title=""Avatar for ChristopherSu from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            ChristopherSu
+          </span>
+        "
+"todoist-digest 0.10.4","pip install todoist-digest
+          
+            
+            Copy PIP instructions","Released: 
+  Aug 14, 2024","Generate a digest of comments that occured since the last checked in date. Useful for including in an email.",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/134028f49967f7b6af99e27b5c48aff88ec326b5/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f66393664343666333931313335626330396634343464376164666231326664653f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for iloveitaly from gravatar.com"" title=""Avatar for iloveitaly from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            iloveitaly
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/134028f49967f7b6af99e27b5c48aff88ec326b5/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f66393664343666333931313335626330396634343464376164666231326664653f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for iloveitaly from gravatar.com"" title=""Avatar for iloveitaly from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            iloveitaly
+          </span>
+        "
+"todoist-scheduler 0.6.0","pip install todoist-scheduler
+          
+            
+            Copy PIP instructions","Released: 
+  Aug 17, 2024","Automatically reschedule tasks in Todoist to reduce the size of the todo lists you see each day.",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/134028f49967f7b6af99e27b5c48aff88ec326b5/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f66393664343666333931313335626330396634343464376164666231326664653f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for iloveitaly from gravatar.com"" title=""Avatar for iloveitaly from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            iloveitaly
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/134028f49967f7b6af99e27b5c48aff88ec326b5/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f66393664343666333931313335626330396634343464376164666231326664653f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for iloveitaly from gravatar.com"" title=""Avatar for iloveitaly from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            iloveitaly
+          </span>
+        "
+"todoist-to-todotxt 0.0.2","pip install todoist-to-todotxt
+          
+            
+            Copy PIP instructions","Released: 
+  Sep 11, 2023","Save tasks from Todoist to todo.txt format",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/8ec5bea6c5aadfd1ded20e8e44b363061e7522ce/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f30383364663733373132333665366365343534656137386462356635613635653f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for anlar from gravatar.com"" title=""Avatar for anlar from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            anlar
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/8ec5bea6c5aadfd1ded20e8e44b363061e7522ce/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f30383364663733373132333665366365343534656137386462356635613635653f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for anlar from gravatar.com"" title=""Avatar for anlar from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            anlar
+          </span>
+        "
+"todoman 4.4.0","pip install todoman
+          
+            
+            Copy PIP instructions","Released: 
+  Nov 6, 2023","A simple icalendar-based todo manager.",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/319556d5d517a0eb6c38ae7458bb61ff03de6ad9/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f31616438376262303330333233386565383736613134376461636435353761313f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for untitaker from gravatar.com"" title=""Avatar for untitaker from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            untitaker
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/5d7109a1de0f34b59cfdfa45e8bcf2afa8fe64d5/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f32363837323664613331366239663631323535313135363939653361383431343f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for WhyNotHugo from gravatar.com"" title=""Avatar for WhyNotHugo from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            WhyNotHugo
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/319556d5d517a0eb6c38ae7458bb61ff03de6ad9/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f31616438376262303330333233386565383736613134376461636435353761313f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for untitaker from gravatar.com"" title=""Avatar for untitaker from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            untitaker
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/5d7109a1de0f34b59cfdfa45e8bcf2afa8fe64d5/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f32363837323664613331366239663631323535313135363939653361383431343f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for WhyNotHugo from gravatar.com"" title=""Avatar for WhyNotHugo from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            WhyNotHugo
+          </span>
+        "
+"todonepy 4.0.9","pip install todonepy
+          
+            
+            Copy PIP instructions","Released: 
+  Sep 17, 2020","A developed command-line task manager",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/6fd2cf4572e82737922806a9fc191cecf0e25691/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f38623935303939333733653431373533666436373232366136666238666131383f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for rbpatt2019 from gravatar.com"" title=""Avatar for rbpatt2019 from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            rbpatt2019
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/6fd2cf4572e82737922806a9fc191cecf0e25691/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f38623935303939333733653431373533666436373232366136666238666131383f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for rbpatt2019 from gravatar.com"" title=""Avatar for rbpatt2019 from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            rbpatt2019
+          </span>
+        "
+"todonotifier 1.3.2","pip install todonotifier
+          
+            
+            Copy PIP instructions","Released: 
+  Mar 17, 2024","Library to setup automatic TODO Notifications in code",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/b916bb4c8fd53136a22c354e80484c90d7a43803/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f33376666376665646137663662366465316163396430373231326134633733613f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for atk_python from gravatar.com"" title=""Avatar for atk_python from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            atk_python
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/b916bb4c8fd53136a22c354e80484c90d7a43803/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f33376666376665646137663662366465316163396430373231326134633733613f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for atk_python from gravatar.com"" title=""Avatar for atk_python from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            atk_python
+          </span>
+        "
+"todo-or-die 0.1.1","pip install todo-or-die
+          
+            
+            Copy PIP instructions","Released: 
+  Sep 14, 2021","Never let your TODOs rot in your python code ever again",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/d71b8e98f5e6c71067aae9e8600ceb79a959e0fc/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f38366233323733393937393335346561306561316130633137333461653438313f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for achedeuzot from gravatar.com"" title=""Avatar for achedeuzot from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            achedeuzot
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/d71b8e98f5e6c71067aae9e8600ceb79a959e0fc/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f38366233323733393937393335346561306561316130633137333461653438313f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for achedeuzot from gravatar.com"" title=""Avatar for achedeuzot from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            achedeuzot
+          </span>
+        "
+"todo-or-die-python 0.1.1","pip install todo-or-die-python
+          
+            
+            Copy PIP instructions","Released: 
+  Sep 13, 2021","Halt code if your TODO is passed due",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/99b335eb5575d4499a4748d7bdd3095e6589d2ee/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f30376631633765303035356164623135366431653235623337613739346137623f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for walshyb from gravatar.com"" title=""Avatar for walshyb from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            walshyb
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/99b335eb5575d4499a4748d7bdd3095e6589d2ee/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f30376631633765303035356164623135366431653235623337613739346137623f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for walshyb from gravatar.com"" title=""Avatar for walshyb from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            walshyb
+          </span>
+        "
+"todopkg 1.0.7","pip install todopkg
+          
+            
+            Copy PIP instructions","Released: 
+  Nov 8, 2023","A To-Do List manager package for managing your tasks efficiently.",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/ca7e3a23e6ecf7fbed08d40748d2d8b7f4087fdb/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f66313366623831393961363139613766666239366437353364343839326531313f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for Isomorphism from gravatar.com"" title=""Avatar for Isomorphism from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            Isomorphism
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/a5d0e08026465a99e93dd51ee2edd310f0f14b27/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f66383136306530386537316236613430646534626662366537346230353539313f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for Isomorphism-_.2023 from gravatar.com"" title=""Avatar for Isomorphism-_.2023 from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            Isomorphism-_.2023
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/ca7e3a23e6ecf7fbed08d40748d2d8b7f4087fdb/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f66313366623831393961363139613766666239366437353364343839326531313f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for Isomorphism from gravatar.com"" title=""Avatar for Isomorphism from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            Isomorphism
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/a5d0e08026465a99e93dd51ee2edd310f0f14b27/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f66383136306530386537316236613430646534626662366537346230353539313f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for Isomorphism-_.2023 from gravatar.com"" title=""Avatar for Isomorphism-_.2023 from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            Isomorphism-_.2023
+          </span>
+        "
+"todoster 1.0.0","pip install todoster
+          
+            
+            Copy PIP instructions","Released: 
+  Nov 5, 2018","A simple command line todo list.",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/7e5b2edaf88c64bb9f92ecff8f361ae1bfeee177/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f37333166363134646565333139303536313433303865653061313035363238633f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for solvi from gravatar.com"" title=""Avatar for solvi from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            solvi
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/7e5b2edaf88c64bb9f92ecff8f361ae1bfeee177/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f37333166363134646565333139303536313433303865653061313035363238633f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for solvi from gravatar.com"" title=""Avatar for solvi from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            solvi
+          </span>
+        "
+"todo-today-cli 0.0.8","pip install todo-today-cli
+          
+            
+            Copy PIP instructions","Released: 
+  Mar 29, 2024","A file-centric task management app",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/96b344747dd4077bdba8b76c81d70b47dd4f1805/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f37646431656365653366626634616438636537666564616231353236623731303f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for vighneshiyer from gravatar.com"" title=""Avatar for vighneshiyer from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            vighneshiyer
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/96b344747dd4077bdba8b76c81d70b47dd4f1805/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f37646431656365653366626634616438636537666564616231353236623731303f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for vighneshiyer from gravatar.com"" title=""Avatar for vighneshiyer from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            vighneshiyer
+          </span>
+        "
+"todotree 3.0.0","pip install todotree
+          
+            
+            Copy PIP instructions","Released: 
+  Aug 5, 2024","todo.txt manager which adds tree printing",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/81b40afc7167344ac57c691c15440173c67ca5e4/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f66363065366662303231633530323363316338643735383733636462623965313f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for chim1aap from gravatar.com"" title=""Avatar for chim1aap from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            chim1aap
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/81b40afc7167344ac57c691c15440173c67ca5e4/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f66363065366662303231633530323363316338643735383733636462623965313f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for chim1aap from gravatar.com"" title=""Avatar for chim1aap from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            chim1aap
+          </span>
+        "
+,,,,,
+"todo-txt-tui 0.2.7","pip install todo-txt-tui
+          
+            
+            Copy PIP instructions","Released: 
+  Dec 10, 2023","A powerful, keyboard-driven terminal application for managing todo.txt files.",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/e5afc9fb45645312402ee4011aa9e58070866807/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f63666561653737356131616364373665333138646334353735346637353638633f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for mdillon from gravatar.com"" title=""Avatar for mdillon from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            mdillon
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/e5afc9fb45645312402ee4011aa9e58070866807/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f63666561653737356131616364373665333138646334353735346637353638633f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for mdillon from gravatar.com"" title=""Avatar for mdillon from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            mdillon
+          </span>
+        "
+"toepoch 1.0.0","pip install toepoch
+          
+            
+            Copy PIP instructions","Released: 
+  Jul 20, 2014","This module take two arguments date (format: yyyy/mm/dd) and time (format: hh:mm:ss) and converts them into epoch (milliseconds).",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/7830c7480ebf813f397df3f771e511e9d973b51c/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f34313138393464373939363365353866313066633761303962326662303937303f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for malenoir from gravatar.com"" title=""Avatar for malenoir from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            malenoir
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/7830c7480ebf813f397df3f771e511e9d973b51c/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f34313138393464373939363365353866313066633761303962326662303937303f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for malenoir from gravatar.com"" title=""Avatar for malenoir from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            malenoir
+          </span>
+        "
+"tofipa 0.4.4","pip install tofipa
+          
+            
+            Copy PIP instructions","Released: 
+  Nov 20, 2022","Get download directory from torrent file",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/049816aeae966ed1ab207026a5b2c17330776a42/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f35343933333161333563626431323266346535373435346534376533393832333f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for plotski from gravatar.com"" title=""Avatar for plotski from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            plotski
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/049816aeae966ed1ab207026a5b2c17330776a42/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f35343933333161333563626431323266346535373435346534376533393832333f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for plotski from gravatar.com"" title=""Avatar for plotski from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            plotski
+          </span>
+        "
+"toggl2pl 1.0.6","pip install toggl2pl
+          
+            
+            Copy PIP instructions","Released: 
+  Mar 23, 2020","Python module and tool to simplify time entries export from Toggl into Project Laboratory",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/13b500478cd341056fda7a5ab119c4b9307fd953/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f30646663393663353664353563653366373233323232393638373764346464663f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for pa-yourserveradmin-com from gravatar.com"" title=""Avatar for pa-yourserveradmin-com from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            pa-yourserveradmin-com
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/13b500478cd341056fda7a5ab119c4b9307fd953/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f30646663393663353664353563653366373233323232393638373764346464663f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for pa-yourserveradmin-com from gravatar.com"" title=""Avatar for pa-yourserveradmin-com from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            pa-yourserveradmin-com
+          </span>
+        "
+"toggler 0.3.0","pip install toggler
+          
+            
+            Copy PIP instructions","Released: 
+  Jul 10, 2024","Feature Flags Manager",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/bdde6edf12fe62648967055e83c9e7f4d4c97ea4/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f34623430326433303132613930373462323736373431663735363130613963613f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for andriusl from gravatar.com"" title=""Avatar for andriusl from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            andriusl
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/bdde6edf12fe62648967055e83c9e7f4d4c97ea4/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f34623430326433303132613930373462323736373431663735363130613963613f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for andriusl from gravatar.com"" title=""Avatar for andriusl from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            andriusl
+          </span>
+        "
+"toggl-fetch 1.0.1","pip install toggl-fetch
+          
+            
+            Copy PIP instructions","Released: 
+  Apr 1, 2016","Fetch summary reports from Toggl.com, with automatic date range calculation.",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/914ef4c3c901dd47d26dce34bf7926a55f08e2c1/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f31353334353634396236363435643131303262373165333139356139356237663f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for Tblue from gravatar.com"" title=""Avatar for Tblue from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            Tblue
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/914ef4c3c901dd47d26dce34bf7926a55f08e2c1/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f31353334353634396236363435643131303262373165333139356139356237663f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for Tblue from gravatar.com"" title=""Avatar for Tblue from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            Tblue
+          </span>
+        "
+,,,,,
+"toggl-reporter 0.0.3","pip install toggl-reporter
+          
+            
+            Copy PIP instructions","Released: 
+  Nov 27, 2020","A tool to build daily reports from Toggle with nice grouping",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/eeac2dcbb3dcfc6dbc52fe7c4e70d5e91620dcf0/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f65363536613333623765623863613438373661653536633938326533353732643f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for senior_sigan from gravatar.com"" title=""Avatar for senior_sigan from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            senior_sigan
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/eeac2dcbb3dcfc6dbc52fe7c4e70d5e91620dcf0/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f65363536613333623765623863613438373661653536633938326533353732643f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for senior_sigan from gravatar.com"" title=""Avatar for senior_sigan from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            senior_sigan
+          </span>
+        "
+"togglreports 2.5.1","pip install togglreports
+          
+            
+            Copy PIP instructions","Released: 
+  May 7, 2024","A simple project to automate the creation of reports using the Toggl API.",,"
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/c693155a159a4dce515ff3b275ca38760665ddf8/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f35376566663061623735353031376564663431643264633133313337613933383f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for r.m from gravatar.com"" title=""Avatar for r.m from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            r.m
+          </span>
+         | 
+          <span class=""sidebar-section__user-gravatar"">
+            <img src=""https://pypi-camo.freetls.fastly.net/c693155a159a4dce515ff3b275ca38760665ddf8/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f35376566663061623735353031376564663431643264633133313337613933383f73697a653d3530"" height=""50"" width=""50"" alt=""Avatar for r.m from gravatar.com"" title=""Avatar for r.m from gravatar.com"">
+          </span>
+          <span class=""sidebar-section__user-gravatar-text"">
+            r.m
+          </span>
+        "
